@@ -1,9 +1,3 @@
-A well-crafted README file can help recruiters understand the purpose of your project, its structure, how to set it up, and what value it brings. For your project, which involves user interaction, GPT-3 text generation, sentiment analysis, data visualization, PostgreSQL integration, and Docker deployment, the README should address key points that meet the recruiter’s checklist.
-
-Here's a sample README file that follows best practices and should satisfy the recruiter's needs:
-
----
-
 # GPT-3 Sentiment Analysis Project
 
 ## Project Description
